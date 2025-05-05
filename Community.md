@@ -3,6 +3,24 @@
 <table>
   <tr>
     <td>Name</td>
+    <td>Karan Yede</td>
+  </tr>
+  <tr>
+    <td>GitHub</td>
+    <td>https://github.com/karanyede</td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td>https://www.linkedin.com/in/karanyede</td>
+  </tr>
+  <tr>
+    <td>College</td>
+    <td>G H Raisoni College of Engineering and Management, Nagpur</td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>Name</td>
     <td>Shruti Agarwal</td>
   </tr>
   <tr>
@@ -18,6 +36,7 @@
     <td>JSS Academy of Technical Education, Noida</td>
   </tr>
 </table>
+
 <table>
       <tr>
         <td>Name</td>
@@ -760,7 +779,7 @@
       </tr>
     </table>
 
-    <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Shobita Bhardwaj</td>
@@ -817,7 +836,7 @@
       </tr>
     </table>
 
-     <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Zeel Rohit Darji</td>
@@ -836,7 +855,7 @@
       </tr>
     </table>
 
-    <table>
+<table>
       <tr>
         <td>Name</td>
         <td>Riya Raj</td>
